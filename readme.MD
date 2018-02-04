@@ -25,6 +25,7 @@ A proposed theory of brain functioning that is heavily influenced by physics, ne
 
 # Network neuroscience theory of human intelligence
 
+![alt text](/img/intelligence.jpg)
 Accumulating evidence from network neuroscience indicates that g depends on the dynamic reorganization of brain networks, modifying their topology and community structure in the service of system-wide flexibility and adaptation.
 
 Whereas crystallized intelligence engages easy-to-reach network states that access prior knowledge and experience, fluid intelligence recruits difficult-to-reach network states that support cognitive flexibility and adaptive problem-solving.
@@ -51,6 +52,7 @@ Research investigating their role in brain network dynamics further indicates th
 ![alt text](/img/img4.png)
 
 # Videos
+
 https://www.youtube.com/embed/-GV_A9Js2nM
 
 # Slides
