@@ -51,7 +51,9 @@ Research investigating their role in brain network dynamics further indicates th
 ![alt text](/img/img4.png)
 
 # Videos
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-GV_A9Js2nM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://www.youtube.com/embed/-GV_A9Js2nM
+
+# Slides
 
 # Links
 
