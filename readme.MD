@@ -5,6 +5,23 @@ This is a repository heavily inspired by the AGI course at MIT.
 
 The goal is to collect resources related to Artificial General Intelligence.
 
+# Cognitive modeling
+
+![alt text](/img/img1.png)
+
+# Mimicing human emotion
+
+![alt text](/img/img3.png)
+
+# The intersection of neuroscience and machine learning
+
+![alt text](/img/img2.png)
+![alt text](/img/img5.png)
+
+# Scalable Machine Learning
+
+![alt text](/img/img4.png)
+
 # Links
 
 ## Podcast on Life 3.0 by Tegmark
