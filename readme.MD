@@ -6,9 +6,12 @@ This is a repository heavily inspired by the AGI course at MIT.
 The goal is to collect resources related to Artificial General Intelligence.
 
 # Cognitive modeling
+
 ![alt text](/img/img1.png)
 
 # Lecture on deep learning and neuroscience
+
+![alt text](/img/lecture.png)
 https://docs.google.com/presentation/d/1McC0y_nvUUHAYV4jQT5uj41oo2ceaFtbQBRTOus1N78/edit?usp=sharing
 
 The closer the work you are doing is relating to general intelligence, the more important neuroscience becomes. We need to have a working understanding of the human brain that is computational in order to make progress in the most advanced parts of deep learning.
@@ -16,10 +19,12 @@ The closer the work you are doing is relating to general intelligence, the more 
 This is incredibly challenging because information exists on many different levels of abstraction. From neurons and biology to system wide functionality within the brain and computational models for explaining the brain.
 
 # Entropic brain theory
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3909994/
 A proposed theory of brain functioning that is heavily influenced by physics, neurobiology, and psychoanalysis.
 
 # Network neuroscience theory of human intelligence
+
 Accumulating evidence from network neuroscience indicates that g depends on the dynamic reorganization of brain networks, modifying their topology and community structure in the service of system-wide flexibility and adaptation.
 
 Whereas crystallized intelligence engages easy-to-reach network states that access prior knowledge and experience, fluid intelligence recruits difficult-to-reach network states that support cognitive flexibility and adaptive problem-solving.
