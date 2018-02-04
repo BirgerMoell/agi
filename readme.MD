@@ -6,8 +6,31 @@ This is a repository heavily inspired by the AGI course at MIT.
 The goal is to collect resources related to Artificial General Intelligence.
 
 # Cognitive modeling
-
 ![alt text](/img/img1.png)
+
+# Lecture on deep learning and neuroscience
+https://docs.google.com/presentation/d/1McC0y_nvUUHAYV4jQT5uj41oo2ceaFtbQBRTOus1N78/edit?usp=sharing
+
+The closer the work you are doing is relating to general intelligence, the more important neuroscience becomes. We need to have a working understanding of the human brain that is computational in order to make progress in the most advanced parts of deep learning.
+
+This is incredibly challenging because information exists on many different levels of abstraction. From neurons and biology to system wide functionality within the brain and computational models for explaining the brain.
+
+# Entropic brain theory
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3909994/
+A proposed theory of brain functioning that is heavily influenced by physics, neurobiology, and psychoanalysis.
+
+# Network neuroscience theory of human intelligence
+Accumulating evidence from network neuroscience indicates that g depends on the dynamic reorganization of brain networks, modifying their topology and community structure in the service of system-wide flexibility and adaptation.
+
+Whereas crystallized intelligence engages easy-to-reach network states that access prior knowledge and experience, fluid intelligence recruits difficult-to-reach network states that support cognitive flexibility and adaptive problem-solving.
+
+The capacity to flexibly transition between networks states therefore provides the basis for g – enabling rapid information exchange across networks and capturing individual differences in information processing at a global level.
+
+The general factor instead accounts for individual differences in information processing at a global level. Thus, we cannot understand the causal underpinnings of g by appealing to specific cognitive processes or by directly examining the psychological tests from which the general factor is derived. Research on the nature and origins of g must therefore extend beyond psychology to examine the neurobiological mechanisms that shape individual differences in cognitive ability.
+
+Research in network science has long appreciated that global information processing depends on the formation of weak ties, which comprise nodes with a small number of connections. By analogy to a social network, a weak tie represents a mutual acquaintance that connects two groups of close friends, providing a weak link between multiple modules. In contrast to the intuition that strong connections are optimal for network function, the introduction of weak ties is known to produce a more globally efficient small-world topology.
+
+Research investigating their role in brain network dynamics further indicates that weak connections enable the system to function within many difficult-to-reach states, reflecting a capacity to adapt to novel situations by engaging mechanisms for flexible, intelligent behavior. Unlike the easily reachable network states underlying crystallized intelligence, difficult-to-reach states rely on connections and pathways that are not well-established from prior experience – instead requiring the adaptive selection and assembly of new representations that introduce high cognitive demands. The capacity to access difficult-to-reach states is exhibited by multiple ICNs, most notably the frontoparietal and cingulo-opercular networks (Figure 3B). Together, these networks are known to support cognitive control, enabling the top-down regulation and control of mental operations (engaging the frontoparietal network) in response to environmental change and adaptive task goals (maintained by the cingulo-opercular network).
 
 # Mimicing human emotion
 
